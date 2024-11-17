@@ -21,3 +21,4 @@ code/data/PythiaDataTask.pdf:Zone.Identifier
 code/data/results.csv:Zone.Identifier
 code/data/startingXI.csv:Zone.Identifier
 code/data/teams.csv:Zone.Identifier
+*.pq
