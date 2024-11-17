@@ -22,3 +22,10 @@ code/data/results.csv:Zone.Identifier
 code/data/startingXI.csv:Zone.Identifier
 code/data/teams.csv:Zone.Identifier
 *.pq
+data/PythiaDataTask.pdf:Zone.Identifier
+data/results.csv:Zone.Identifier
+data/fixtures.csv:Zone.Identifier
+data/players.csv:Zone.Identifier
+data/startingXI.csv:Zone.Identifier
+data/odds.csv:Zone.Identifier
+data/teams.csv:Zone.Identifier
