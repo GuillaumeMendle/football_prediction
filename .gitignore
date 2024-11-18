@@ -29,3 +29,5 @@ data/players.csv:Zone.Identifier
 data/startingXI.csv:Zone.Identifier
 data/odds.csv:Zone.Identifier
 data/teams.csv:Zone.Identifier
+*.png
+*.json
