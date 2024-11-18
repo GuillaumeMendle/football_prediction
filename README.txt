@@ -2,7 +2,7 @@
 
 ## Description
 
-This project consists of several Jupyter notebooks, each corresponding to a specific part of the assignment. Follow the order indicated by the numbers in the notebook filenames. All notebooks are located in the "project_code" folder.
+This project consists of several Jupyter notebooks, each corresponding to a specific part of the assignment. Please follow the order indicated by the numbers in the notebook filenames. All notebooks are located in the "project_code" folder.
 
 ### 1. Notebook: `0_Part_1.ipynb`
 **Objective**: Addresses Part I of the assignment: *"EXPLORING THE FIRST SEASON"*.
